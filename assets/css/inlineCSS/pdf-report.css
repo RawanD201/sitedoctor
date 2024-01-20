@@ -1,0 +1,20 @@
+.table-responsive-vertical {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#custom-input {
+    width: 64px;
+    height: 40px;
+    position: absolute;
+    vertical-align: middle;
+    margin-top: 40px;
+    margin-left: -92px;
+    border: 0px;
+    background: none;
+    font: bold 24px Arial;
+    text-align: center;
+    color: rgb(103, 119, 239);
+    padding: 0px;
+    -webkit-appearance: none;
+}

@@ -1,0 +1,26 @@
+.starter { display: none !important; }
+.section{background:none !important;padding:0 !important}
+.card .card-body .section-title + .section-lead{line-height:1.8 !important}
+.table thead tr th{color:#6777ef !important;font-size: 14px !important;}
+.table tbody tr td{color:#6c757d !important;font-size: 14px !important;}
+
+.heading_styles { height: 150px !important;overflow-y: auto !important;}
+
+.card.card-primary .section-title:before {background-color:#6777ef !important;}
+.card.card-success .section-title:before {background-color:#63ed7a !important;}
+.card.card-danger .section-title:before {background-color:#fc544b !important;}
+.card.card-warning .section-title:before {background-color:#ffa426 !important;}
+
+.card.card-primary .list-group-item.active {background-color:#6777ef !important;border-color: #6777ef !important;}
+.card.card-success .list-group-item.active {background-color:#63ed7a !important;border-color: #63ed7a !important;}
+.card.card-danger .list-group-item.active {background-color:#fc544b !important;border-color: #fc544b !important;}
+.card.card-warning .list-group-item.active {background-color:#ffa426 !important;border-color: #ffa426 !important;}
+
+.card.card-statistic-1 .card-icon i { line-height: 80px !important; }
+.box-card .card-statistic-1{ border: .5px solid #dee2e6;border-radius: 4px; }
+.box-card .card-icon { border: .5px solid #dee2e6;background: #FAFDFB !important; }
+
+.bg-react { background-color: #70416d !important; }
+.bg-smart { background-color: #a3816a !important; }
+.bg-purple { background-color: #a3816a !important; }
+.bg-pink { background-color: #c54fa7 !important; }

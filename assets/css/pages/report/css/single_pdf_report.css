@@ -1,0 +1,26 @@
+*,body{margin:0;padding:0;box-sizing:border-box;}
+.pdf_card { height: 70px !important; }
+.col-12{width:100%!important;}
+.heading_styles { height: auto !important;border:0.5px solid rgba(0,0,0,.125);}
+.card{border-radius:3px;;position:relative;margin-bottom:30px;}
+.card .card-header{ padding-top: 15px; padding-bottom: 0 !important; }
+.card .card-header h4{font-size:16px;margin-bottom:0;text-transform: capitalize;}
+.card-body .long-recom { color: #000 !important;background-color:#eee; }
+.list-group-item{list-style:none;}
+.table tbody tr td,.table tbody tr th,.table thead tr td,.table thead tr th{padding:5px 10px;text-align:center;}
+.is_pdf_table{font-weight:700;color:#191919;border:solid 1px #e1e1e1;padding:10px;background-color:#e1e1e1;list-style:none!important;margin-top:10px;font-style:italic;letter-spacing:1px}
+.well{margin-bottom:10px;background-color:#eee;border-color:#eee;color:#6c757d}
+.score_card div { color: #fff;text-align: center; }
+.item-header { text-transform: capitalize; }
+.card-primary {border-top:2px solid #6777ef !important;}
+.card-success {border-top:2px solid #63ed7a !important;}
+.card-danger {border-top:2px solid #fc544b !important;}
+.card-warning {border-top:2px solid #ffa426 !important;}
+.table tbody tr,.table thead tr {border: 1px solid #eee !important;}
+.pdf-heading { margin-bottom: 20px !important; }
+.card-primary .pdf-heading li.active {background-color:#6777ef !important;border-color: #6777ef !important;color: #fff;}
+.card-success .pdf-heading li.active {background-color:#63ed7a !important;border-color: #63ed7a !important;color: #fff;}
+.card-danger .pdf-heading li.active {background-color:#fc544b !important;border-color: #fc544b !important;color: #fff;}
+.card-warning .pdf-heading li.active {background-color:#ffa426 !important;border-color: #ffa426 !important;color: #fff;}
+.card .card-body .pdf-heading li.active{color:#fff;padding:10px;font-weight:700;font-size: 14px !important;padding-left:14px !important;text-align: center;}
+.pdf-heading li { padding: 10px;border-bottom:.5px solid #dee2e6}

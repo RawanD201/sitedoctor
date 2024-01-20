@@ -1,0 +1,21 @@
+#send_email2{
+    border-radius: 15px;
+    /* padding-left: 30px; */
+    margin-left: 5px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    height: 40px;
+}
+#lead_name2{
+    border-radius: 10px;
+    margin-right: 5px;
+    
+}
+#lead_email2{
+    border-radius: 10px;
+}
+.header_msg{
+    text-align: center;
+    color: rgb(34, 33, 33);
+    font-size: medium;
+}

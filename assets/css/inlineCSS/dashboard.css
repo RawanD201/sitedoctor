@@ -1,0 +1,23 @@
+#card{
+    min-height: 100px;
+    border-radius: 10px;
+}
+#domain-card-body{
+    border-radius: 10px;
+    background: #cdd7ff;
+}
+#comparative-card-body{
+    border-radius: 10px;
+    background: #d8fce9;
+}
+#email-card-body{
+    border-radius: 10px;
+    background: #ffcedd;
+}
+#card-icon{
+    color: #5e5e5e !important;
+}
+
+#connect-account-card{
+    box-shadow: none !important;
+}
